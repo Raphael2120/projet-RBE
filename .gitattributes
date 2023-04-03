@@ -1,0 +1,7 @@
+*.php linguist-language=PHP
+*.css linguist-language=CSS
+*.scss linguist-language=SCSS
+*.js linguist-language=Javascript
+*.sql linguist-language=SQL
+*.php linguist-language=HTML
+
